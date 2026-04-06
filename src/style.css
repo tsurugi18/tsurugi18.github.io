@@ -90,6 +90,12 @@ html, body {
 .typed-notes-links li a{
     color: rgb(0, 136, 205);
 }
+.typed-notes-links li a:hover{
+    color: rgb(1, 153, 229);
+}
+.typed-notes-links li a:active{
+    color: rgb(1, 118, 176);
+}
 /* CV viewer*/
 .cv-viewer-container{
     width: 100%;
